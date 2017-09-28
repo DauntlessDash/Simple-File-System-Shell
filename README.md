@@ -6,7 +6,7 @@ This project is my attempt to create a simple file-system shell in C in order to
 
 ## Commands
 
-# The following commands can be used to create and manage files:
+### The following commands can be used to create and manage files:
 
 ls - lists out contents of current directory
 ls <path> - lists out contents of specified directory
