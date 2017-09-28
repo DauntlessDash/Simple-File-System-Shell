@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This project is my attempt to create a simple file-system shell in C in order to practice my abilites in creating data structures. My implementation uses a tree and INode like concept where each node has a sibiling pointer and a childlist pointer for managing what other files are in that folder
+This project is my attempt to create a simple file-system shell in C in order to practice my abilites in creating data structures. My implementation uses a tree and INode like concept where each node has a sibiling pointer and a childlist pointer for managing what other files are in that folder.
 
 ## Commands
 
